@@ -25,7 +25,7 @@ const run = async () => {
   process.exit();
 };
 if (!args[0]) {
-  console.log("Usage: node getTokenBalance [token contract]");
+  console.log("Usage: node getTokenBalance <token contract>");
   process.exit();
 }
 run();
