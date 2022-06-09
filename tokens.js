@@ -1,5 +1,5 @@
 const tokens = {
-  router: "0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3", // PCSv2 Router Testnet
+  router: "0x3B57fB4db51c39a401f22b86EC7F677821035f32", // PCSv2 Router Testnet
   purchaseAmount: "0.01",
   pair: [
     "0xae13d989dac2f0debff460ac112a837c89baa7cd", // WBNB
